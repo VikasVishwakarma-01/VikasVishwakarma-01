@@ -14,7 +14,12 @@
 ## 🚀 About Me
 - 🎓 I’m a B.Tech Engineering student
 - 💻 Learning DSA, Fullstack Development
-
+- 💡 Always curious to learn and explore new technologies.  
+- 💻 Passionate about **Web Development** and **Problem Solving**.  
+- 🎯 Currently learning **Backend Development (Node.js, Express, MongoDB)**.  
+- 📚 Exploring **DSA, Graphs, DP, and Advanced Algorithms**.  
+- 🌱 Open to collaborating on **Open Source** and real-world projects.  
+  
 ## 🛠️ Languages & Tools
 
  <p align="center">
@@ -35,11 +40,21 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 </p>
 
+## 📈 GitHub Stats
+
+| GitHub Stats | Repo Languages | Commit Languages |
+|--------------|----------------|------------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=VikasVishwakarma-01&show_icons=true&theme=tokyonight) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikasVishwakarma-01&theme=tokyonight) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikasVishwakarma-01&theme=tokyonight) |
 
 
- 
- ## 📈 GitHub Stats
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikasVishwakarma-01&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
 
 ## 🌐 Connect with Me
 <div align="center">
@@ -68,10 +83,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=VikasVishwakarma-01&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
  
-
-
-
-
 ## 👀 Profile Visitors  
 
 ![Profile views](https://komarev.com/ghpvc/?username=VikasVishwakarma-01&label=Profile%20views&color=0e75b6&style=flat)
