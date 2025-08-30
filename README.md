@@ -1,24 +1,30 @@
 # Hi there 👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=I'm+Vikas+and+I+love+coding!)](https://git.io/typing-svg)
+<!-- Typing + GIF in one row -->
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&width=600&lines=I'm+Vikas+👨‍💻;I+Love+Coding+and+Problem+Solving;Exploring+DSA+%26+Backend+Development;Always+Learning+New+Things!"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
+<!-- Rainbow line -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-
-
 ## 🚀 About Me
-- 🎓 I’m a B.Tech Engineering student
-- 💻 Learning DSA, Fullstack Development
-- 💡 Always curious to learn and explore new technologies.  
-- 💻 Passionate about **Web Development** and **Problem Solving**.  
-- 🎯 Currently learning **Backend Development (Node.js, Express, MongoDB)**.  
-- 📚 Exploring **DSA, Graphs, DP, and Advanced Algorithms**.  
-- 🌱 Open to collaborating on **Open Source** and real-world projects.  
+- 🎓 **B.Tech Civil Engineering Student** with a love for tech.  
+- 💻 Learning **DSA & Fullstack Development**.  
+- 🎯 Currently focused on **Backend (Node.js, Express, MongoDB)**.  
+- 🌱 Passionate about **Open Source & Real-World Projects**.  
+- ⚡ Fun fact: Debugging + Coffee ☕ = Superpowers 🚀  
+  
   
 ## 🛠️ Languages & Tools
 
