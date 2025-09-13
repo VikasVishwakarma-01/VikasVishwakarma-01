@@ -79,6 +79,11 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/vikas_web_07)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vikaswgxcm/practice/)
 
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vikas-web-007&theme=radical&disable_animations=false&show_icons=true&force_username=true" height="200px"/>
+  <img src="https://leetcard.jacoblin.cool/vikasvishwakarma-01?theme=unicorn&font=baloo&ext=heatmap" height="200px"/>
+</p>
+
 ## 📊 Contribution Graph  
 
 [![Vikas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VikasVishwakarma-01&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
