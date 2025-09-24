@@ -19,11 +19,10 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 **B.Tech Civil Engineering Student** with a love for tech.  
+- 🎓 **I am B.Tech Student** with a love for tech.  
 - 💻 Learning **DSA & Fullstack Development**.  
 - 🎯 Currently focused on **Backend (Node.js, Express, MongoDB)**.  
 - 🌱 Passionate about **Open Source & Real-World Projects**.  
-- ⚡ Fun fact: Debugging + Coffee ☕ = Superpowers 🚀  
   
   
 ## 🛠️ Languages & Tools
