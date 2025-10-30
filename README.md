@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&width=600&lines=I'm+Vikas+👨‍💻;I+Love+Coding+and+Problem+Solving;Exploring+DSA+%26+Backend+Development;Always+Learning+New+Things!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&width=600&lines=I'm+Vikas...;Exploring+DSA+%26+Backend+Development;Always+Learning+New+Things!"/>
       </a>
     </td>
     <td>
