@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&width=600&lines=I'm+Vikas...;Exploring+DSA+%26+Backend+Development;Always+Learning+New+Things!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&width=600&lines=I'm+Vikas...;Always+Learning+New+Things!"/>
       </a>
     </td>
     <td>
@@ -18,13 +18,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 🚀 About Me
-- 🎓 **I am B.Tech Student** with a love for tech.  
-- 💻 Learning **DSA & Fullstack Development**.  
-- 🎯 Currently focused on **Backend (Node.js, Express, MongoDB)**.  
-- 🌱 Passionate about **Open Source & Real-World Projects**.  
-  
-  
 ## 🛠️ Languages & Tools
 
  <p align="center">
